@@ -18,10 +18,12 @@
   },
   "homepage": "https://github.com/enso-ui/range-slider#readme",
   "dependencies": {
-    "vue": "^3.0",
     "nouislider": "^15.4.0"
   },
   "peerDependencies": {
-    "vue": "^3.0"
+    "vue": "^3.5.0"
+  },
+  "devDependencies": {
+    "vue": "^3.5.0"
   }
 }
