@@ -1,29 +1,29 @@
 {
-  "name": "@enso-ui/range-slider",
-  "version": "2.1.1",
-  "description": "range-slider",
-  "main": "index.js",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/enso-ui/range-slider.git"
-  },
-  "keywords": [
-    "range-slider",
-    "vue"
-  ],
-  "author": "Adrian Ocneanu <aocneanu@gmail.com>",
-  "license": "MIT",
-  "bugs": {
-    "url": "https://github.com/enso-ui/range-slider/issues"
-  },
-  "homepage": "https://github.com/enso-ui/range-slider#readme",
-  "dependencies": {
-    "nouislider": "^15.4.0"
-  },
-  "peerDependencies": {
-    "vue": "^3.5.0"
-  },
-  "devDependencies": {
-    "vue": "^3.5.0"
-  }
+    "name": "@enso-ui/range-slider",
+    "version": "2.1.1",
+    "description": "Range slider wrapper built on top of noUiSlider.",
+    "main": "index.js",
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/enso-ui/range-slider.git"
+    },
+    "keywords": [
+        "range-slider",
+        "vue"
+    ],
+    "author": "Adrian Ocneanu <aocneanu@gmail.com>",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/enso-ui/range-slider/issues"
+    },
+    "homepage": "https://github.com/enso-ui/range-slider#readme",
+    "dependencies": {
+        "nouislider": "^15.4.0"
+    },
+    "peerDependencies": {
+        "vue": "^3.5.0"
+    },
+    "devDependencies": {
+        "vue": "^3.5.0"
+    }
 }
