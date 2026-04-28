@@ -1,6 +1,6 @@
 {
     "name": "@enso-ui/range-slider",
-    "version": "2.1.1",
+    "version": "2.1.2",
     "description": "Range slider wrapper built on top of noUiSlider.",
     "main": "index.js",
     "repository": {

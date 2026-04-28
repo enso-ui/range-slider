@@ -3,8 +3,10 @@
 </template>
 
 <script>
-import noUiSlider from 'nouislider';
+import * as noUiSliderModule from 'nouislider';
 import 'nouislider/dist/nouislider.css';
+
+const noUiSlider = noUiSliderModule.default ?? noUiSliderModule;
 
 export default {
     name: 'RangeSlider',
